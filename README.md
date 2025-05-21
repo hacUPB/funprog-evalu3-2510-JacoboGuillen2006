@@ -4,7 +4,7 @@
 Nombre del estudiante: Jacobo Guilen Villa
 Id.: 000541481
 
-[Calculadora cientifica (Pseudocodigo)](./retos/reto1.md)
-[Calculadora cientifica](./retos/reto1.c)
+[Calculadora ingenieria (Pseudocodigo)](./retos/reto1.md)
+[Calculadora ingenieria](./retos/reto1.c)
 ---
 
