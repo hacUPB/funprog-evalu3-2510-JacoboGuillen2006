@@ -1,0 +1,5 @@
+## Actividad 1 
+
+En la actividad 1 empezamos a crear diferentes codigos, uno de ellos fue el siguiente ejemplo el cual lleva de nombre [hola.c](hola.c) ya que fue un ejemplo de codigo que hizimos, lo que este codigo hace es imprimir un mensaje en la consola, este codigo incluye la bilbioteca estandar de entrada y salida "#include <stdio.h>" la cual es necesario para utilizar funciones como "printf", Define un símbolo llamado MENSAJE, que se reemplazará por el texto "¡Hola Henry!\n" cada vez que aparezca en el código, printf(MENSAJE); imprime el mensaje "¡Hola Henry!\n" en la consola. El \n al final es un salto a la siguiente linea de codigo (un enter) y el return 0; indica que el programa finalizó correctamente.
+
+Otro codigo que tambien hicimos fue el [hola.i](hola.i), este codigo es el resultado del preprocesamiento de un programa en C, normalmente generado con un comando: "gcc -E hola.c -o hola.i". En si este archivo muestra el contenido del código fuente hola.c después de que el preprocesador ha hecho su trabajo y lo mas importante que hace es expandir macros, incluir los archivos de cabecera, eliminar comentarios y resolver directivas condicionales
