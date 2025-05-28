@@ -4,17 +4,7 @@
 Nombre del estudiante: Jacobo Guilen Villa
 Id.: 000541481
 
-
-[Actividad 1](./actividad1/actividad1.md)
-
-
-[For](./ejercicios/for/for.md)
-
-
-[While](./ejercicios/while/while.md)
-
-
-[Calculadora ingenieria](./retos/calculadora.md)
+En esta unidad empezamos con la programación estructurada en el lenguaje C, primero hicimos una pequeña [Actividad 1](./actividad1/actividad1.md) que nos ayuda a entender cosas basicas del lenguaje C y despues vimos temas más estructurados como el [For](./ejercicios/for/for.md) y el [While](./ejercicios/while/while.md) para terminar con el reto final de esta unidad el cual fue crear una [Calculadora ingenieria](./retos/calculadora.md)
 
 
 ---
